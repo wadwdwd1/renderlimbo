@@ -53,7 +53,7 @@ brandName:
 # Message sends when player joins to the server
 joinMessage:
   enable: true
-  text: '{"text": "&eWelcome to the WadMC's Limbo!!"}'
+  text: '{"text": "&eWelcome to the WadMCs Limbo!!"}'
 
 # BossBar displays when player joins to the server
 # For 1.9+ clients
