@@ -1,5 +1,5 @@
 # Use an official base image with Java
-FROM openjdk:11-jre-slim
+FROM openjdk:17
 
 
 # Copy everything from the current directory to /app in the container
